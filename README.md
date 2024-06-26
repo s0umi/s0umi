@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://s0umi.io)
 <h1 align="center">Hi 👋, I'm Soumi Saha</h1>
-<h3 align="center">Frontend Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
+<h3 align="center">frontend developer</h3>
 
+<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0umi&label=Profile%20views&color=0e75b6&style=flat" alt="s0umi" /> </p>
 
 - 📫 How to reach me **sahasoumi68@gmail.com**
