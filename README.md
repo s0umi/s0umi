@@ -1,4 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)](https://s0umi.io)
+<img align="center" alt="coding" width="60%" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+
 # 💫 About Me:
 Hi 👋, I'm Soumi Saha, Welcome to My GitHub Profile<br><br>✨ Pursuing B.tech in Computer Science and Engineering.<br>📫 Reach me at **sahasoumi68@gmail.com**
 
